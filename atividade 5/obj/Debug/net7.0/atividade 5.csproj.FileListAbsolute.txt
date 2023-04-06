@@ -1,0 +1,5 @@
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\atividade 5\obj\Debug\net7.0\atividade 5.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\atividade 5\obj\Debug\net7.0\atividade 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\atividade 5\obj\Debug\net7.0\atividade 5.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\atividade 5\obj\Debug\net7.0\atividade 5.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\atividade 5\obj\Debug\net7.0\atividade 5.csproj.CoreCompileInputs.cache
