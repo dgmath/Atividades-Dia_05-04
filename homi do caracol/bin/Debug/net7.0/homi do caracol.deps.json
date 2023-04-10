@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "homi do caracol/1.0.0": {
+        "runtime": {
+          "homi do caracol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homi do caracol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

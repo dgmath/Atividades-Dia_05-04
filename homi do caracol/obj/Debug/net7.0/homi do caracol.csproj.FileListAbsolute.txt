@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\bin\Debug\net7.0\homi do caracol.exe
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\bin\Debug\net7.0\homi do caracol.deps.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\bin\Debug\net7.0\homi do caracol.runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\bin\Debug\net7.0\homi do caracol.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\bin\Debug\net7.0\homi do caracol.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\refint\homi do caracol.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\homi do caracol.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\homi do caracol\obj\Debug\net7.0\ref\homi do caracol.dll

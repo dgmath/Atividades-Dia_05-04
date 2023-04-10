@@ -12,7 +12,7 @@ int midadef = 0;
 for(int contador = 0; contador <=10; contador++)
 {   
     Console.WriteLine($"Insira sua idade:");
-    int anos = int.Parse(Console.ReadLine());
+    int anos = int.Parse(Console.ReadLine()!);
     
     Console.WriteLine($"Insira o sexo (f para feminino e m para masculino");
     char sexo = char.Parse(Console.ReadLine()!);
@@ -23,16 +23,18 @@ for(int contador = 0; contador <=10; contador++)
     switch(sexo)
     {
         case 'm':
-    	sexom ++;
-
-        if(sexo == 'f')
-        {
-            sexof ++;
-        }
+    	sexom++;
+        midadem += anos;
         break;
 
+        case 'f':
+        sexof++;
+        midadef += anos;
+        break;
     }
-    int midadem = anos / midadem;
 }
+Console.WriteLine($"O total de homens é de: {sexom}");
+Console.WriteLine($"O total de homens é de: {sexof}");
+Console.WriteLine($"A média de idades masculinas é de: {midadem/sexom}");
+Console.WriteLine($"A média de idades femininas é de: {midadef/sexof}");
 
-Console.WriteLine($"{sexom} {sexof} {midadef} {midadem}");
