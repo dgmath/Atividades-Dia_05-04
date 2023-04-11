@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\bin\Debug\net7.0\Atividade carros.exe
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\bin\Debug\net7.0\Atividade carros.deps.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\bin\Debug\net7.0\Atividade carros.runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\bin\Debug\net7.0\Atividade carros.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\bin\Debug\net7.0\Atividade carros.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\refint\Atividade carros.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\Atividade carros.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade carros\obj\Debug\net7.0\ref\Atividade carros.dll

@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\bin\Debug\net7.0\Atividade idade com array.exe
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\bin\Debug\net7.0\Atividade idade com array.deps.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\bin\Debug\net7.0\Atividade idade com array.runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\bin\Debug\net7.0\Atividade idade com array.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\bin\Debug\net7.0\Atividade idade com array.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\refint\Atividade idade com array.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\Atividade idade com array.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade idade com array\obj\Debug\net7.0\ref\Atividade idade com array.dll

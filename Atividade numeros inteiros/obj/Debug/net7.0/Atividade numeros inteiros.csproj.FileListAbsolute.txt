@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\bin\Debug\net7.0\Atividade numeros inteiros.exe
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\bin\Debug\net7.0\Atividade numeros inteiros.deps.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\bin\Debug\net7.0\Atividade numeros inteiros.runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\bin\Debug\net7.0\Atividade numeros inteiros.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\bin\Debug\net7.0\Atividade numeros inteiros.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\refint\Atividade numeros inteiros.dll
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.pdb
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\Atividade numeros inteiros.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-Dia_05-04\Atividade numeros inteiros\obj\Debug\net7.0\ref\Atividade numeros inteiros.dll

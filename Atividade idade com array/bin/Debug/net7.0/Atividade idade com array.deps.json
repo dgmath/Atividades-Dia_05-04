@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atividade idade com array/1.0.0": {
+        "runtime": {
+          "Atividade idade com array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade idade com array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
