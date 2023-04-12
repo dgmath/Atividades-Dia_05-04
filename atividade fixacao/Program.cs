@@ -6,13 +6,14 @@ int[]numeros = new int [6];
 int numeropar = 0;
 int numeroimpar = 0;
 
-for (int i = 0; i < 5; i++)
+
+for (int i = 0; i < 6; i++)
 {
     Console.WriteLine($"Insira seu {i + 1}º numero: ");
     numeros[i] = int.Parse(Console.ReadLine()!);
 }
 
-for (int i = 0; i < 5; i++)
+for (int i = 0; i < 6; i++)
 {
     if (numeros[i] % 2 == 0)
     {
